@@ -2,7 +2,7 @@
 Script for counting colors in perler-bead design image (1 pixel per bead)
 
 # Instructions
-Download count_colors.py, and slap that baby in whatever folder GIMP uses to store plugins
+Download `count_colors.py`, and slap that baby in whatever folder GIMP uses to store plugins
 By default on Windows, that'll be something like `C:\Users\<your username>\AppData\Roaming\GIMP\<gimp's version number, probably 2.10>\plug-ins`
 To get there even faster, just type `%APPDATA'\GIMP\2.10\plug-ins` into your Explorer window!
 
